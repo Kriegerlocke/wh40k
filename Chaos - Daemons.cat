@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="422a-a40e-3f7c-e8b3" name="Chaos - Daemons" revision="63" battleScribeVersion="2.02" authorName="BSData Developers" authorContact="@Mad_Spy" authorUrl="https://discord.gg/KqPVhds" library="false" gameSystemId="28ec-711c-d87f-3aeb" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="422a-a40e-3f7c-e8b3" name="Chaos - Daemons" revision="64" battleScribeVersion="2.02" authorName="BSData Developers" authorContact="@Mad_Spy" authorUrl="https://discord.gg/KqPVhds" library="false" gameSystemId="28ec-711c-d87f-3aeb" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <publications>
     <publication id="422a-a40e-pubN71142" name="Dataslate: Be&apos;lakor"/>
     <publication id="422a-a40e-pubN120961" name="Index: Chaos"/>
@@ -69,6 +69,7 @@
     <categoryEntry id="761d-8f06-b39f-4bc7" name="Daemon Prince" hidden="false"/>
     <categoryEntry id="53c3-b2cf-1554-c3da" name="Exalted Flamer" hidden="false"/>
     <categoryEntry id="4876-2cad-c1ff-7024" name="Infernal Enrapturess" hidden="false"/>
+    <categoryEntry id="ae50-7971-06bd-8ad4" name="Beasts of Nurgle" hidden="false"/>
   </categoryEntries>
   <entryLinks>
     <entryLink id="8466-813b-f8f0-e78f" name="Karanak" hidden="false" collective="false" targetId="b91e-a5fc-d9d4-bf08" type="selectionEntry">
@@ -5025,10 +5026,10 @@
       <categoryLinks>
         <categoryLink id="3c5c-181f-b051-3dab" name="New CategoryLink" hidden="false" targetId="7892-58f7-e769-4d87" primary="false"/>
         <categoryLink id="8e72-a115-d0fc-05a0" name="New CategoryLink" hidden="false" targetId="0bc5-6451-5612-4a25" primary="false"/>
-        <categoryLink id="9fe0-eeb5-cb2c-39cd" name="New CategoryLink" hidden="false" targetId="0dbe-cdf5-8fa1-36da" primary="false"/>
-        <categoryLink id="b0e6-7639-b0b3-520b" name="New CategoryLink" hidden="false" targetId="dfc5-aa04-9546-1b4c" primary="false"/>
         <categoryLink id="a916-ccb8-d351-58b1" name="New CategoryLink" hidden="false" targetId="638d74c6-bd97-4de5-b65a-6aaa24e9f4b2" primary="true"/>
         <categoryLink id="46fb-81bd-1aba-2ba3" name="New CategoryLink" hidden="false" targetId="5cf1-acf2-ca3b-c2e5" primary="false"/>
+        <categoryLink id="b3d8-d604-459f-faf7" name="Beasts of Nurgle" hidden="false" targetId="ae50-7971-06bd-8ad4" primary="false"/>
+        <categoryLink id="c329-1d07-cb0d-937d" name="Faction: Nurgle" hidden="false" targetId="0fb6-fcaf-b180-5dda" primary="false"/>
       </categoryLinks>
       <selectionEntries>
         <selectionEntry id="31a7-7cbf-59f7-87a6" name="Beast of Nurgle" hidden="false" collective="false" type="model">
